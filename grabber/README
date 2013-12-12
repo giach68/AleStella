@@ -1,0 +1,8 @@
+Windows 7
+Visual Studio 10 (32bit)
+Cmake 2.8 
+(the executable of the two programs have administrator priviledges)
+PCL 1.6.0 (binaries)
+Primesense Sensor 5.1.6.4
+OpenNI 1.5.7.4 
+PCL 1.7 (source code "overwritten" on 1.6)
